@@ -2,7 +2,7 @@
 
 I mess with Discord, make plugins, and turn random ideas into working projects.
 
-Most of my projects start with me wanting something Discord doesn't have. From there, I usually end up digging through the client until I figure out how to make it work.
+Most of what I build comes from experimenting with Discord's client and seeing what I can change or add.
 
 ## Work
 
@@ -31,7 +31,3 @@ Mess around with Discord's platform identification.
 ## Stack
 
 `TypeScript` `JavaScript` `React` `Git`
-
-## Links
-
-[Discord](https://discord.gg/Hd7qrCuz) · [Instagram](https://instagram.com/mubashirshaikh801)
